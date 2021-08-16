@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Cadreia/ideafy/static/js/main.77954fd3.chunk.js",
+    "main.js.map": "/Cadreia/ideafy/static/js/main.77954fd3.chunk.js.map",
+    "runtime-main.js": "/Cadreia/ideafy/static/js/runtime-main.8d134d51.js",
+    "runtime-main.js.map": "/Cadreia/ideafy/static/js/runtime-main.8d134d51.js.map",
+    "static/js/2.14ebd957.chunk.js": "/Cadreia/ideafy/static/js/2.14ebd957.chunk.js",
+    "static/js/2.14ebd957.chunk.js.map": "/Cadreia/ideafy/static/js/2.14ebd957.chunk.js.map",
+    "index.html": "/Cadreia/ideafy/index.html",
+    "precache-manifest.0e65ea0117bef84dddfd598f1c702be1.js": "/Cadreia/ideafy/precache-manifest.0e65ea0117bef84dddfd598f1c702be1.js",
+    "service-worker.js": "/Cadreia/ideafy/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d134d51.js",
+    "static/js/2.14ebd957.chunk.js",
+    "static/js/main.77954fd3.chunk.js"
+  ]
+}
